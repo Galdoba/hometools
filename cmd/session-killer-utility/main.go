@@ -12,6 +12,7 @@ import (
 )
 
 func main() {
+	//asdlk
 	app := cli.NewApp()
 	app.Name = "session-killer-utility"
 	app.Version = "0.0.1"
